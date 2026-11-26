@@ -1,5 +1,11 @@
 # Island Hopper — Sky Courier of the Coral Isles
 
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/e0426685-cloud/best-flight-game-20261126-0057-entry/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/e0426685-cloud/best-flight-game-20261126-0057-entry/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/best-flight-game-20261126-0057)'s "Make the best flight game" bounty ($500 in USDC).
+
 A complete, original flight game that plays offline in a desktop browser
 from static files. Fly a bush plane on the mail run between three island
 airstrips: take off, thread the rings, land — three legs, eighteen rings,
